@@ -139,11 +139,4 @@ require get_template_directory() . '/inc/customizer.php';
  */
 require get_template_directory() . '/inc/jetpack.php';
 
-// Advanced custom fields oembed
 
-add_action('acf/register_fields', 'my_register_fields');
-
-function my_register_fields()
-{
-    include_once('acf-oembed/acf-oembed.php');
-}
