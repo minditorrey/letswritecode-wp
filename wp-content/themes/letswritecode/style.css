@@ -618,7 +618,7 @@ section h3 {
 }
 
 #primary {
-	padding-top: 40px;
+
 	padding-bottom: 40px;
 }
 .feature-image {
@@ -958,7 +958,7 @@ footer li.signup-link a:hover {
 /* ==== SKILLS ==== */
 
 .intro-skills {
-	padding: 60px 40px;
+	padding: 40px 40px 0;
 }
 .skills {
 	width: 48%;
